@@ -1,2 +1,4 @@
 # hello-world-
-こんにちは世界!!
+hello world!!
+my name is f.m
+i was born 21 years ago.
